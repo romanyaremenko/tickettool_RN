@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ededfd43-da95-4592-a550-888b7f1e086e"
+      }
+    },
+    "owner": "roman_yaremenko"
   }
 }
